@@ -19,5 +19,5 @@ Use command line `jupyter nbconvert --to notebook --execute NvidiaStockPredictio
 
 ## Work Cited  
 [MambaStock Model GitHub repository](https://github.com/zshicode/MambaStock) by zshicode 
-
+[Stock-Price-Prediction-Using-LSTM](https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM) by 034adarsh
 
