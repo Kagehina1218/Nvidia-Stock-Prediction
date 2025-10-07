@@ -10,7 +10,7 @@ Jupyter Notebook
 
 ## Installation Instructions  
 1. Download python from [Python.org](https://www.python.org/downloads/) and check python version by using this command: `python --version`.
-2. Use commend line `pip install jupyter` to install Jupyter.  
+2. Use command line `pip install jupyter` to install Jupyter.  
 3. Download the code on GitHub by navigate to the main page of the repository. Above the list of files, click Code. Click Download ZIP.
 4. Unzip the zip file.  
    
